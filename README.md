@@ -7,7 +7,8 @@ The following prototype is a console application and works in Console only.
 
 ==========================================================================================================
 
-Some Screenshots taken while running the project has also beenn attached.
+Some Screenshots taken while running the project has also been attached.
+The HardCooded Password Used in Program is "1111" which you can change in source code.
 Have a look before you run file in your system.
 
 ===========================================================================================================
