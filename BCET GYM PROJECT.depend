@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1583227993 source:c:\project 1(c)\bcet gym project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1583227993 source:d:\bcet gym project(c)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
