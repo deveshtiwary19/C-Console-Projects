@@ -2,9 +2,9 @@
 #CodeFreaks Developers
 =========================================================================================================
 This is a C project based on a prototype of gym management system coded in C.
+The source code is there in the file named "main.c" . 
 The following prototype is a console application and works in Console only.
 
-The file main.c contains the complete source code which you fan run in any C supporting IDE.
 ==========================================================================================================
 
 Some Screenshots taken while running the project has also beenn attached.
